@@ -1,8 +1,8 @@
 #write your code here
 
-def countdown(number)
+def countdown
   while  number.to_1 > 0
-    puts {number}
+    puts "#{number}"
     number -= 1
   end
   "HAPPY NEW YEAR!"
